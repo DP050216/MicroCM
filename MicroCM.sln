@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroCM", "MicroCM.csproj", "{B09B0525-ED69-4AAB-AC4E-86D7CB30F69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09B0525-ED69-4AAB-AC4E-86D7CB30F69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09B0525-ED69-4AAB-AC4E-86D7CB30F69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09B0525-ED69-4AAB-AC4E-86D7CB30F69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09B0525-ED69-4AAB-AC4E-86D7CB30F69D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6A55E5-03A0-4698-9023-B039A35554AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@MicroCM_HostAddress = http://localhost:5026
+
+GET {{MicroCM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
